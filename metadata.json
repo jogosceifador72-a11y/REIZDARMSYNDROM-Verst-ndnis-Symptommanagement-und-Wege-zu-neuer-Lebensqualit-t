@@ -1,0 +1,6 @@
+{
+  "name": "Reizdarmsyndrom E-Book | Praxisleitfaden",
+  "description": "Verständnis, Symptommanagement und Wege zu neuer Lebensqualität. 30-seitiger PDF-Praxisleitfaden für einen beschwerdefreien Alltag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
